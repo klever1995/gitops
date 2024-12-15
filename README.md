@@ -42,8 +42,7 @@ To replicate or use this project, you need:
 
    Clone the GitHub repository to your local machine:
    ```bash
-   git clone https://github.com/your_username/your_repo.git
-   cd your_repo
+   git clone https://github.com/klever1995/gitops.git
 
 2. **Pull the Latest Docker Image:**:
 
